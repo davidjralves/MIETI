@@ -1,0 +1,1 @@
+Projeto desenvolvido pelo [André Machado](https://github.com/andremachado35), [kikofps](https://github.com/kikofps) e [Hélder Freitas](https://github.com/loonatic), disponível neste repositório:https://github.com/andremachado35/theonesimulator-studyprotocols_RedesMoveis
