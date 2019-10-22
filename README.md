@@ -1,5 +1,5 @@
 # MIETI
-Este repositório contém documentação das várias unidades curriculares que constituem o curso de Engenharia de Telecomunicações e Informática. Resulta da agregação de vários repositórios que existiram no curso, além disso tem documentação presente em repositórios de outros cursos. É de agradecer as contribuições de todos as pessoas que têm projetos e documentação neste repositório.
+Este repositório contém documentação das várias unidades curriculares que constituem o curso de Engenharia de Telecomunicações e Informática. Resulta da agregação de vários repositórios que existiram no curso, além disso tem documentação presente em repositórios de outros cursos. É de agradecer as contribuições de todas as pessoas que têm projetos e documentação neste repositório.
 
 ----
 
