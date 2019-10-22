@@ -1,0 +1,1 @@
+Projeto desenvolvido em 2018-2019 pelo [André Machado](https://github.com/andremachado35), [kikofps](https://github.com/kikofps) e [PedroDourado96](https://github.com/PedroDourado96), disponível neste repositório: https://github.com/andremachado35/Dtn_Core_emulator_PTI2
