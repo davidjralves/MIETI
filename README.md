@@ -5,6 +5,8 @@ Tudo o que está neste repositório não é da minha inteira autoria, projetos e
 
 É de agradecer as contribuições de todas as pessoas que têm projetos e documentação neste repositório.
 
+Quem quiser é livre de poder contribuir com mais documentação que tenha, bastando para isso contactar-me ou utilizar devidamente o Git.Se alguém também quiser que algum projeto seu ou documentação sua seja retirada deste repositório, que o faça pela mesma via.
+
 ----
 
 ### Links úteis
