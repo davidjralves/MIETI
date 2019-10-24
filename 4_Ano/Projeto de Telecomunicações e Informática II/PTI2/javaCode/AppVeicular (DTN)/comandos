@@ -1,6 +1,0 @@
-cd 
-cd Documentos/Code/pti2/pti2-1819/javaCode/DTN
-javac exMcastEnvia.java
-javac exMcastRecebe.java
-java exMcastEnvia
-java exMcastRecebe
