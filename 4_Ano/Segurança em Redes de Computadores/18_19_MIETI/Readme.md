@@ -1,4 +1,4 @@
-Notas das tp's:
+Notas:
 
 tp1-18
 
