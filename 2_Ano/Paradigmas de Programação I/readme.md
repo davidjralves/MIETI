@@ -1,3 +1,3 @@
-Projeto e documentação extra presente neste repositório: 
+Projeto e documentação extra presentes neste repositório: 
 
 https://github.com/andremachado35/Paradigmas_programacao_1
