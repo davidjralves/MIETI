@@ -48,7 +48,7 @@ https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_
 
 **Servidor FTP da UMinho (contém sistemas operativos linux para download)**
 
-[ftp://ftp.di.uminho.pt/](ftp://ftp.di.uminho.pt/)
+[ftp://ftp.di.uminho.pt/](http://ftp.di.uminho.pt/)
 
 ---
 
