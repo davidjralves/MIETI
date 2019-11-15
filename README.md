@@ -46,7 +46,7 @@ http://mieti.eng.uminho.pt/
 **App para calcular média do curso(Autor: [Rúben Sousa](https://github.com/rubensousa))**                                 
 https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US
 
-**Servidor FTP do DI da UMinho (contém sistemas operativos linux para download)**
+**Servidor FTP do DI da UMinho (contém sistemas operativos linux para download)**                              
 [ftp://ftp.di.uminho.pt/](http://ftp.di.uminho.pt/)
 
 ---
