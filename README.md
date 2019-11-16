@@ -13,6 +13,9 @@ Quem quiser é livre de poder contribuir com mais documentação que tenha, bast
 **Repositório do MIECOM (curso que antecedeu o MIETI):**
 https://www.dropbox.com/sh/rv75htjilnl3g26/AACFRsFBiVRr9bNixJGM50c5a?dl=0
 
+**Repositório do MIEEIC:**                                                                            
+https://www.dropbox.com/sh/y53n5fkpkzbirep/AAA9bqkJAlFveoDlYLFzEFDaa/MIEEICbackup2?dl=0&subfolder_nav_tracking=1&fbclid=IwAR3rLw145PUObDYCadZ1xAOYuOG0BEKJ3RUErBADoqnts3os2cOxVuoNQrY
+
 
 **Repositório do MIEI:**                                             
 https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
