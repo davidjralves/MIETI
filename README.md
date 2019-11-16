@@ -153,3 +153,5 @@ Opcionais:
 [Liderança e Empreendedorismo](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Lideran%C3%A7a%20e%20Empreendedorismo)
 
 [Micro dispositivos de RF para Comunicação sem Fios](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Micro%20dispositivos%20de%20RF%20para%20Comunica%C3%A7%C3%A3o%20sem%20Fios)
+
+[Tese](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Tese)
