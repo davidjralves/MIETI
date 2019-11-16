@@ -14,7 +14,7 @@ Quem quiser é livre de poder contribuir com mais documentação que tenha, bast
 https://www.dropbox.com/sh/rv75htjilnl3g26/AACFRsFBiVRr9bNixJGM50c5a?dl=0
 
 **Repositório do MIEEIC:**                                                                            
-https://www.dropbox.com/sh/y53n5fkpkzbirep/AAA9bqkJAlFveoDlYLFzEFDaa/MIEEICbackup2?dl=0&subfolder_nav_tracking=1&fbclid=IwAR3rLw145PUObDYCadZ1xAOYuOG0BEKJ3RUErBADoqnts3os2cOxVuoNQrY
+https://www.dropbox.com/sh/y53n5fkpkzbirep/AAA9bqkJAlFveoDlYLFzEFDaa/MIEEICbackup2?s3os2cOxVuoNQrY
 
 
 **Repositório do MIEI:**                                             
@@ -46,7 +46,7 @@ https://reservas.sdum.uminho.pt/
 http://mieti.eng.uminho.pt/
 
 
-**App para calcular média do curso(Autor: [Rúben Sousa](https://github.com/rubensousa))**                                 
+**App para calcular média do curso(Autor: [Rúben Sousa](https://github.com/rubensousa)**                                 
 https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_US
 
 **Servidor FTP do DI da UMinho (contém sistemas operativos linux para download)**                              
