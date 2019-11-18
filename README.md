@@ -52,8 +52,10 @@ https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_
 **Servidor FTP do DI da UMinho (contém sistemas operativos linux para download)**                              
 [ftp://ftp.di.uminho.pt/](http://ftp.di.uminho.pt/)
 
-**Website com software grátis para alunos da UMinho**
-http://dreamspark.di.uminho.pt/
+**Website com software grátis para alunos da UMinho**                                                           
+http://dreamspark.di.uminho.pt/ (Dep.Informática)
+
+http://dreamspark.dsi.uminho.pt/ (Dep. Sistemas de Informação)
 
 ---
 
