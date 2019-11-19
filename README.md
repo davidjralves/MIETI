@@ -54,7 +54,7 @@ https://play.google.com/store/apps/details?id=com.github.rubensousa.mieti&hl=en_
 
 **Website com software grátis para alunos da UMinho**                                                           
 http://dreamspark.di.uminho.pt/ (Dep.Informática)                                                                      
-http://dreamspark.dsi.uminho.pt/ (Dep. Sistemas de Informação)
+http://dreamspark.dsi.uminho.pt/ (Dep. Sistemas de Informação)                                                
 http://vmware.di.uminho.pt/ (VMWare)
 
 ---
