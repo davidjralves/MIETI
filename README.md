@@ -57,8 +57,7 @@ http://dreamspark.di.uminho.pt/ (Dep.Informática)
 http://dreamspark.dsi.uminho.pt/ (Dep. Sistemas de Informação)                                                
 http://vmware.di.uminho.pt/ (VMWare)
 
-**Salários de vários trabalhadores na áreas de IT **  
-
+**Salários de vários trabalhadores na áreas de IT**  
 https://docs.google.com/spreadsheets/d/12yRNQll0mQapxsoKyJMCHnc9FuDug7Z9a-yp_TRNCLk/edit#gid=2023106944
 
 ---
