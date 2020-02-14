@@ -57,6 +57,9 @@ http://dreamspark.di.uminho.pt/ (Dep.Informática)
 http://dreamspark.dsi.uminho.pt/ (Dep. Sistemas de Informação)                                                
 http://vmware.di.uminho.pt/ (VMWare)
 
+**Repositório de dados da Universidade do Minho**
+https://datarepositorium.uminho.pt/dataverse/uminho
+
 **Salários de vários trabalhadores nas áreas de TI**  
 https://docs.google.com/spreadsheets/d/12yRNQll0mQapxsoKyJMCHnc9FuDug7Z9a-yp_TRNCLk/edit#gid=2023106944 (retirado de:https://www.reddit.com/r/portugal/comments/994l0a/emprego_recémmestres_em_ti/)
 
