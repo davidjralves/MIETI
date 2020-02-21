@@ -1,0 +1,30 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-05-29 05:25 EDT
+Nmap scan report for 192.168.1.3
+Host is up (0.00043s latency).
+All 1000 scanned ports on 192.168.1.3 are closed
+MAC Address: 08:00:27:71:07:73 (Oracle VirtualBox virtual NIC)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.1.4
+Host is up (0.00068s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 08:00:27:E8:12:12 (Oracle VirtualBox virtual NIC)
+Device type: general purpose
+Running: Microsoft Windows XP|2003
+OS CPE: cpe:/o:microsoft:windows_xp cpe:/o:microsoft:windows_server_2003
+OS details: Microsoft Windows XP SP2 or SP3, or Windows Server 2003
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.1.2
+Host is up (0.000067s latency).
+All 1000 scanned ports on 192.168.1.2 are closed
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 6.09 seconds
