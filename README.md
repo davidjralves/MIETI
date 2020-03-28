@@ -63,7 +63,7 @@ https://datarepositorium.uminho.pt/
 **Salários de vários trabalhadores nas áreas de TI**  
 https://docs.google.com/spreadsheets/d/12yRNQll0mQapxsoKyJMCHnc9FuDug7Z9a-yp_TRNCLk/edit#gid=2023106944 (retirado de:https://www.reddit.com/r/portugal/comments/994l0a/emprego_recémmestres_em_ti/)
 
-**App para ver as ementas das cantinas da UMinho (autor:[Andé Almeida](https://github.com/andrealmeida98))**
+**App para ver as ementas das cantinas da UMinho (Autor:[Andé Almeida](https://github.com/andrealmeida98))**
 https://play.google.com/store/apps/details?id=com.ementasuminhov2&hl=pt
 
 ---
