@@ -10,7 +10,7 @@ Quem quiser é livre de poder contribuir com mais material que tenha, bastando p
 ----
 
 ### Links úteis
-**Repositório do MIECOM (curso que antecedeu o MIETI):**
+**Repositório do MIECOM (curso que antecedeu o MIETI):**                                       
 https://www.dropbox.com/sh/rv75htjilnl3g26/AACFRsFBiVRr9bNixJGM50c5a?dl=0
 
 **Repositório do MIEEIC:**                                                                            
