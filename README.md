@@ -66,6 +66,9 @@ https://docs.google.com/spreadsheets/d/12yRNQll0mQapxsoKyJMCHnc9FuDug7Z9a-yp_TRN
 **App para ver as ementas das cantinas da UMinho (Autor:[Andé Almeida](https://github.com/andrealmeida98))**                 
 https://play.google.com/store/apps/details?id=com.ementasuminhov2&hl=pt
 
+**Website para encontrar soluções de livros e exercícios**                                                                            
+https://www.studocu.com
+
 ---
 
 ### Estrutura do curso
