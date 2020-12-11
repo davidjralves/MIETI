@@ -174,3 +174,6 @@ Opcionais:
 [Micro dispositivos de RF para Comunicação sem Fios](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Micro%20dispositivos%20de%20RF%20para%20Comunica%C3%A7%C3%A3o%20sem%20Fios)
 
 [Sistemas Ubíquos](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Sistemas%20Ub%C3%ADquos)
+
+[Teste e Validação de Sistemas de Informação](https://github.com/davidjralves/MIETI/tree/master/5_Ano/Teste%20e%20Valida%C3%A7%C3%A3o%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o)
+
