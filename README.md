@@ -20,7 +20,7 @@ https://www.dropbox.com/sh/y53n5fkpkzbirep/AAA9bqkJAlFveoDlYLFzEFDaa/MIEEICbacku
 **Repositório do MIEI:**                                             
 https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
 
-**Discord do MIEI(também serve para tirar dúvidas):**                                                                   
+**Discord do MIEI (também serve para tirar dúvidas):**                                                                   
 https://discord.gg/m3kVwYM
 
 
