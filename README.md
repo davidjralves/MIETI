@@ -23,6 +23,8 @@ https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ
 **Discord do MIEI (também serve para tirar dúvidas):**                                                                   
 https://discord.gg/m3kVwYM
 
+**Templates para dissertação com formatação da UMinho:**                                                                                                          
+https://github.com/joaomlourenco/novathesis
 
 **Website com a resolução de exercícios de livros das unidades curriculares:**                  
 https://www.slader.com
