@@ -29,7 +29,7 @@ https://github.com/joaomlourenco/novathesis
 **Website com a resolução de exercícios de livros das unidades curriculares:**                  
 https://www.slader.com
 
-**Website para ver salários de empregp nas áreas das TI**                                                                                            
+**Website para ver salários de emprego nas áreas das TI**                                                                                            
 https://pt.teamlyzer.com/
 
 **Calendário de testes e projetos do MIETI:**                                  
